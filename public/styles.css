@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 60px;
+}
+.form{
+     text-align: center;
+}
+.form input {
+    margin-left: 10px;
+}
+.form button{
+    margin-left: 10px;
+}
